@@ -1,13 +1,13 @@
 <template>
-  <Home />
+  <Mas />
 </template>
 
 <script>
-import Home from '../components/Home';
+import Mas from '../components/Mas';
 
 export default {
   components: {
-    Home,
+    Mas,
   },
 };
 </script>

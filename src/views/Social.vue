@@ -1,13 +1,13 @@
 <template>
-  <Home />
+  <Social />
 </template>
 
 <script>
-import Home from '../components/Home';
+import Social from '../components/Social';
 
 export default {
   components: {
-    Home,
+    Social,
   },
 };
 </script>

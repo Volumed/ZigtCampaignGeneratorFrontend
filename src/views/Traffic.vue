@@ -1,13 +1,13 @@
 <template>
-  <Home />
+  <Traffic />
 </template>
 
 <script>
-import Home from '../components/Home';
+import Traffic from '../components/Traffic';
 
 export default {
   components: {
-    Home,
+    Traffic,
   },
 };
 </script>

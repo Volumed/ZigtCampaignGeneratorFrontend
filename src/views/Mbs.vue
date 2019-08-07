@@ -1,13 +1,13 @@
 <template>
-  <Home />
+  <Mbs />
 </template>
 
 <script>
-import Home from '../components/Home';
+import Mbs from '../components/Mbs';
 
 export default {
   components: {
-    Home,
+    Mbs,
   },
 };
 </script>
